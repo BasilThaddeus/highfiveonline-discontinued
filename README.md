@@ -1,3 +1,6 @@
+# Why this was discontinued
+Unfortunately this project was terminated due to the serverless nature of Vercel making it incompatable with WebSockets. This could still run on NextJS and be hosted on another platform but it may be better to use ExpressJS or another framework.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
